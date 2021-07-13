@@ -1,0 +1,24 @@
+D:\2 курс\Компьютерная графика\Task4\Task4\bin\Debug\Task4.exe.config
+D:\2 курс\Компьютерная графика\Task4\Task4\bin\Debug\Task4.exe
+D:\2 курс\Компьютерная графика\Task4\Task4\bin\Debug\Task4.pdb
+D:\2 курс\Компьютерная графика\Task4\Task4\bin\Debug\Solution.dll
+D:\2 курс\Компьютерная графика\Task4\Task4\bin\Debug\Solution.pdb
+D:\2 курс\Компьютерная графика\Task4\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+D:\2 курс\Компьютерная графика\Task4\Task4\obj\Debug\Task4.Form1.resources
+D:\2 курс\Компьютерная графика\Task4\Task4\obj\Debug\Task4.Properties.Resources.resources
+D:\2 курс\Компьютерная графика\Task4\Task4\obj\Debug\Task4.csproj.GenerateResource.Cache
+D:\2 курс\Компьютерная графика\Task4\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\2 курс\Компьютерная графика\Task4\Task4\obj\Debug\Task4.exe
+D:\2 курс\Компьютерная графика\Task4\Task4\obj\Debug\Task4.pdb
+D:\2 курс\1 семестр\Компьютерная графика\Task4\Task4\bin\Debug\Task4.exe.config
+D:\2 курс\1 семестр\Компьютерная графика\Task4\Task4\bin\Debug\Task4.exe
+D:\2 курс\1 семестр\Компьютерная графика\Task4\Task4\bin\Debug\Task4.pdb
+D:\2 курс\1 семестр\Компьютерная графика\Task4\Task4\bin\Debug\Solution.dll
+D:\2 курс\1 семестр\Компьютерная графика\Task4\Task4\bin\Debug\Solution.pdb
+D:\2 курс\1 семестр\Компьютерная графика\Task4\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+D:\2 курс\1 семестр\Компьютерная графика\Task4\Task4\obj\Debug\Task4.Form1.resources
+D:\2 курс\1 семестр\Компьютерная графика\Task4\Task4\obj\Debug\Task4.Properties.Resources.resources
+D:\2 курс\1 семестр\Компьютерная графика\Task4\Task4\obj\Debug\Task4.csproj.GenerateResource.Cache
+D:\2 курс\1 семестр\Компьютерная графика\Task4\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\2 курс\1 семестр\Компьютерная графика\Task4\Task4\obj\Debug\Task4.exe
+D:\2 курс\1 семестр\Компьютерная графика\Task4\Task4\obj\Debug\Task4.pdb
